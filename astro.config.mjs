@@ -20,7 +20,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://qtit07.github.io/",
+	site: "https://post.qtitpc.space/",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
